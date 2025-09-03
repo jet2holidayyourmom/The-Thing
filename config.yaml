@@ -17,3 +17,11 @@ instagram:
 twitter:
   api_key: ""
   api_secret: ""
+
+content:
+  niche: "conspiracy theories"
+  style: "short articles, 600–800 words, engaging, mysterious, cliffhanger endings"
+  image_prompt: "dark, mysterious illustration of conspiracy or hidden truth, realistic style"
+
+affiliate_link: "https://your-affiliate-link.com"
+donate_link: "https://ko-fi.com/yourname"
