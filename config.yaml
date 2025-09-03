@@ -1,0 +1,19 @@
+niche: "fitness motivation"
+affiliate_link: "https://your-affiliate-link.com"
+donate_link: "https://ko-fi.com/yourname"
+
+youtube:
+  api_key: ""
+  channel_id: ""
+
+tiktok:
+  api_key: ""
+  user_id: ""
+
+instagram:
+  username: ""
+  password: ""
+
+twitter:
+  api_key: ""
+  api_secret: ""
